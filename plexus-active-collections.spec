@@ -7,7 +7,7 @@ Summary:        Plexus Container-Backed Active Collections
 
 Group:          Development/Java
 License:        ASL 2.0
-URL:            http://plexus.codehaus.org/
+URL:            https://plexus.codehaus.org/
 #svn export http://svn.codehaus.org/plexus/tags/plexus-active-collections-1.0-beta-2/
 #tar zcf plexus-active-collections-1.0-beta-2.tar.gz plexus-active-collections-1.0-beta-2/
 Source0:        plexus-active-collections-1.0-beta-2.tar.gz
